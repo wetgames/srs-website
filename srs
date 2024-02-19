@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="srfs.css">
+        <meta charset="utf-8">
+        <title>SRFS</title>
+    </head>
+    <body>
+    <main>
+    <!--TODO: color background-->
+        <h1>TYPE IN YOUR INSTAGRAM FOR A RANDOM ASS D.M.</h1>
+        <section>
+           <form action="/action_page.php">
+            <input required type="text" name="INSTAGRAM" placeholder="instagram handle">
+            <button type="submit">SendThatBih</button>
+           </form>
+        </section>
+    </main>
+    <footer> 
+        <p>somerandomshit l.l.c.</p>
+    </footer>
+    </body>
+</html>
